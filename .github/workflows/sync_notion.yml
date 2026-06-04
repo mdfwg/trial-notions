@@ -7,16 +7,18 @@ on:
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 jobs:
-  build:
+  # build:
+  #   runs-on: ubuntu-latest
+  #   env:
+  #     FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  #   steps:
+  #     - uses: actions/checkout@v4
+  sync:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
-  sync:
-    runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     permissions:
       contents: write # Required to commit the output file
