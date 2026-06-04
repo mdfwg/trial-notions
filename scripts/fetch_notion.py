@@ -11,7 +11,7 @@ except ImportError:
 from datetime import datetime
 
 NOTION_TOKEN = os.getenv("NOTION_TOKEN")
-DATABASE_ID = os.getenv("DATABASE_ID")
+DATABASE_ID = "6b97861b-550e-8389-ae4a-01f29a260f79"
 
 # Validate required environment variables early and provide a clear message
 missing = []
