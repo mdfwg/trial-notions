@@ -1,10 +1,34 @@
 import os
+import sys
 import json
-import requests
+try:
+    import requests
+except ImportError:
+    print(
+        "Missing dependency: requests. Install with 'pip install requests'", file=sys.stderr
+    )
+    sys.exit(1)
 from datetime import datetime
 
-NOTION_TOKEN = os.environ["NOTION_TOKEN"]
-DATABASE_ID = os.environ["DATABASE_ID"]
+NOTION_TOKEN = os.getenv("NOTION_TOKEN")
+DATABASE_ID = os.getenv("DATABASE_ID")
+
+# Validate required environment variables early and provide a clear message
+missing = []
+if not NOTION_TOKEN:
+    missing.append("NOTION_TOKEN")
+if not DATABASE_ID:
+    missing.append("DATABASE_ID")
+if missing:
+    print(
+        "Missing required environment variables: " + ", ".join(missing),
+        file=sys.stderr,
+    )
+    print(
+        "Set them in your GitHub Actions workflow or repository secrets.",
+        file=sys.stderr,
+    )
+    sys.exit(1)
 
 HEADERS = {
     "Authorization": f"Bearer {NOTION_TOKEN}",
