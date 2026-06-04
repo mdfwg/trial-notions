@@ -1,5 +1,851 @@
 {
-  "last_synced": null,
-  "total": 0,
-  "items": []
+  "last_synced": "2026-06-04T06:17:30.828707Z",
+  "total": 49,
+  "items": [
+    {
+      "id": "9757861b-550e-83b0-8249-813bfab60d3c",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Private-server-for-agentic-AI-9757861b550e83b08249813bfab60d3c",
+      "Level": "0. Infrastrcture",
+      "Assignee": [
+        "Teguh Sejati"
+      ],
+      "Start date": {
+        "start": "2026-06-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "High Risk",
+      "End date": null,
+      "Item": "Private server for agentic AI"
+    },
+    {
+      "id": "a3b7861b-550e-8222-972a-8151598ccfc4",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-fundamental-from-Kalbe-a3b7861b550e8222972a8151598ccfc4",
+      "Level": "0. Fundamental",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Deployed & Training is Done",
+      "Risk": "Low Risk",
+      "End date": null,
+      "Item": "AI fundamental from Kalbe"
+    },
+    {
+      "id": "8767861b-550e-829e-bedd-012ca6b8644a",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Multimedia-Lyria-3-automate-30-sec-audio-8767861b550e829ebedd012ca6b8644a",
+      "Level": "0. Multimedia",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Multimedia - Lyria 3 (automate 30 sec audio)"
+    },
+    {
+      "id": "bec7861b-550e-82ac-abd6-019b40106f7b",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Notebook-LLM-research-paper-to-be-infografic-mindmap-video-overview-slide-deck-bec7861b550e82acabd6019b40106f7b",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Jepri Haerudin"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": null,
+      "Item": "Notebook LLM - research paper to be infografic, mindmap, video overview, slide deck"
+    },
+    {
+      "id": "1957861b-550e-83cb-a41a-8159e6a1c53a",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Claude-Code-Security-1957861b550e83cba41a8159e6a1c53a",
+      "Level": "0. Infrastrcture",
+      "Assignee": [
+        "Teguh Sejati"
+      ],
+      "Start date": {
+        "start": "2026-04-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": null,
+      "Item": "Claude Code Security"
+    },
+    {
+      "id": "6c77861b-550e-831e-99e8-01a7a369d98b",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Supabase-back-end-as-a-service-6c77861b550e831e99e801a7a369d98b",
+      "Level": "2. Developer",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Supabase (back-end as a service)"
+    },
+    {
+      "id": "c0f7861b-550e-8229-884f-8178de0cbd81",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Workflow-automation-UIPath-c0f7861b550e8229884f8178de0cbd81",
+      "Level": "3. Data AI ML",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": "Medium Risk",
+      "End date": null,
+      "Item": "Workflow automation - UIPath"
+    },
+    {
+      "id": "3097861b-550e-8358-adf2-8118de542930",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Cursor-3097861b550e8358adf28118de542930",
+      "Level": "2. Developer",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": "Low Risk",
+      "End date": null,
+      "Item": "Cursor"
+    },
+    {
+      "id": "8a17861b-550e-820d-963f-81a87627e5df",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/VPS-for-agentic-AI-Hetzner-Digital-Ocean-Coolify-8a17861b550e820d963f81a87627e5df",
+      "Level": "0. Infrastrcture",
+      "Assignee": [
+        "Denlei Diyorossi",
+        "Novan Trianto"
+      ],
+      "Start date": {
+        "start": "2026-03-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": "Medium Risk",
+      "End date": {
+        "start": "2026-06-30",
+        "end": null
+      },
+      "Item": "VPS for agentic AI (Hetzner/Digital Ocean)+Coolify"
+    },
+    {
+      "id": "3377861b-550e-82c1-8b59-81babb2464e6",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Zvec-alibaba-Vector-DB-3377861b550e82c18b5981babb2464e6",
+      "Level": "2. Developer",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Zvec alibaba - Vector DB"
+    },
+    {
+      "id": "6837861b-550e-825e-9c1e-0125dded804f",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Nvidia-jetson-6837861b550e825e9c1e0125dded804f",
+      "Level": "1. Field Level IoT OT",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Dropped",
+      "Risk": "Medium Risk",
+      "End date": null,
+      "Item": "Nvidia jetson"
+    },
+    {
+      "id": "e067861b-550e-8274-b797-81b17ac654ae",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Multimedia-Gemini-Nano-banana-e067861b550e8274b79781b17ac654ae",
+      "Level": "0. Multimedia",
+      "Assignee": [
+        "agung.hartanto@kalbenutritionals.com"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": null,
+      "Item": "Multimedia - Gemini - Nano banana"
+    },
+    {
+      "id": "f0e7861b-550e-83d3-b2c6-0182853b14a2",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Tableau-Next-agentic-f0e7861b550e83d3b2c60182853b14a2",
+      "Level": "3. Data AI ML",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Tableau Next (agentic)"
+    },
+    {
+      "id": "d457861b-550e-8216-9d3a-01b1448e1be9",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/d457861b550e82169d3a01b1448e1be9",
+      "Level": null,
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": ""
+    },
+    {
+      "id": "9fd7861b-550e-82e5-ad79-81f2fe3488d4",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Data-security-confidential-governance-9fd7861b550e82e5ad7981f2fe3488d4",
+      "Level": "0. Fundamental",
+      "Assignee": [
+        "jepri.haerudin@kalbenutritionals.com"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Data security, confidential governance"
+    },
+    {
+      "id": "06a7861b-550e-8285-8a30-01f102a47eaa",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Pentest-OWASP-ZAP-06a7861b550e82858a3001f102a47eaa",
+      "Level": null,
+      "Assignee": [
+        "756ee98d-81fe-487d-ba37-c99fc36d9021",
+        "Teguh Sejati",
+        "Denlei Diyorossi",
+        "Makhali"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": "High Risk",
+      "End date": null,
+      "Item": "Pentest - OWASP ZAP"
+    },
+    {
+      "id": "f407861b-550e-8377-9cd3-813e6aca2df4",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Data-Traffic-for-Agentic-AI-f407861b550e83779cd3813e6aca2df4",
+      "Level": "0. Infrastrcture",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "High Risk",
+      "End date": null,
+      "Item": "Data Traffic for Agentic AI"
+    },
+    {
+      "id": "eab7861b-550e-82ac-a3cd-018d7e277299",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Oracle-Flexfields-Costumization-eab7861b550e82aca3cd018d7e277299",
+      "Level": "5. ERP",
+      "Assignee": [
+        "Novan Trianto"
+      ],
+      "Start date": {
+        "start": "2026-04-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": "Medium Risk",
+      "End date": null,
+      "Item": "Oracle Flexfields & Costumization"
+    },
+    {
+      "id": "9677861b-550e-83b2-93c8-81c7977f610f",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Agentic-SDLC-9677861b550e83b293c881c7977f610f",
+      "Level": "0. Fundamental",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "Low Risk",
+      "End date": null,
+      "Item": "Agentic SDLC"
+    },
+    {
+      "id": "4c27861b-550e-82d3-a77b-8135a6d1c8ba",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-04-15T04:39:00.000Z",
+      "url": "https://app.notion.com/p/CAE-PARAVIEW-4c27861b550e82d3a77b8135a6d1c8ba",
+      "Level": "4. CAD CAE CAM",
+      "Assignee": [
+        "Wahyu Agus Rudito"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "CAE - PARAVIEW"
+    },
+    {
+      "id": "5b17861b-550e-83f0-8ef7-816c9743893b",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-Assistant-Openclaw-5b17861b550e83f08ef7816c9743893b",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Denlei Diyorossi"
+      ],
+      "Start date": {
+        "start": "2026-04-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "High Risk",
+      "End date": {
+        "start": "2026-05-31",
+        "end": null
+      },
+      "Item": "AI Assistant - Openclaw"
+    },
+    {
+      "id": "9367861b-550e-83d4-834e-81e562cf4f1c",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Bardeen-AI-Workflow-Automation-9367861b550e83d4834e81e562cf4f1c",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Jepri Haerudin"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": null,
+      "Item": "Bardeen AI- Workflow Automation"
+    },
+    {
+      "id": "5267861b-550e-83b6-8322-8107a2ff45b5",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Cloude-Code-Playground-Skill-5267861b550e83b683228107a2ff45b5",
+      "Level": "2. Developer",
+      "Assignee": [
+        "Denlei Diyorossi"
+      ],
+      "Start date": {
+        "start": "2026-03-03",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "Medium Risk",
+      "End date": {
+        "start": "2026-06-30",
+        "end": null
+      },
+      "Item": "Cloude Code Playground Skill"
+    },
+    {
+      "id": "7477861b-550e-8252-b14a-812a4b7dd0e8",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-04-15T04:39:00.000Z",
+      "url": "https://app.notion.com/p/CAE-OpenFOAM-7477861b550e8252b14a812a4b7dd0e8",
+      "Level": "4. CAD CAE CAM",
+      "Assignee": [
+        "Wahyu Agus Rudito"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "CAE - OpenFOAM"
+    },
+    {
+      "id": "7077861b-550e-8248-a41c-8159c5bcbd80",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-04-15T04:39:00.000Z",
+      "url": "https://app.notion.com/p/CAD-CAE-CAM-7077861b550e8248a41c8159c5bcbd80",
+      "Level": "4. CAD CAE CAM",
+      "Assignee": [
+        "Wahyu Agus Rudito"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "CAD, CAE, CAM"
+    },
+    {
+      "id": "3617861b-550e-82d9-b919-81332b7a043a",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Oracle-Enterprise-Asset-Management-3617861b550e82d9b91981332b7a043a",
+      "Level": "5. ERP",
+      "Assignee": [
+        "Novan Trianto"
+      ],
+      "Start date": {
+        "start": "2026-04-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": "Low Risk",
+      "End date": null,
+      "Item": "Oracle Enterprise Asset Management "
+    },
+    {
+      "id": "f067861b-550e-832e-85de-8136b7763ed7",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Multimedia-elevenlabs-io-f067861b550e832e85de8136b7763ed7",
+      "Level": "0. Multimedia",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Multimedia - elevenlabs.io"
+    },
+    {
+      "id": "54a7861b-550e-8218-91ec-81278aa3857f",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/DataGPT-Workflow-Automation-54a7861b550e821891ec81278aa3857f",
+      "Level": "3. Data AI ML",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "DataGPT - Workflow Automation"
+    },
+    {
+      "id": "04d7861b-550e-8391-95c8-0131a55a193d",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Multimedia-Seedance-2-0-04d7861b550e839195c80131a55a193d",
+      "Level": "0. Multimedia",
+      "Assignee": [
+        "agung.hartanto@kalbenutritionals.com"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": "Medium Risk",
+      "End date": null,
+      "Item": "Multimedia - Seedance 2.0"
+    },
+    {
+      "id": "7b47861b-550e-8325-a5dc-813f9c256693",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Julius-AI-Data-Analysis-Visualization-7b47861b550e8325a5dc813f9c256693",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Jepri Haerudin"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": null,
+      "Item": "Julius AI - Data Analysis & Visualization"
+    },
+    {
+      "id": "c277861b-550e-8324-b13e-01e1bdb7bf05",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Multimedia-krea-ai-c277861b550e8324b13e01e1bdb7bf05",
+      "Level": "0. Multimedia",
+      "Assignee": [
+        "agung.hartanto@kalbenutritionals.com"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Multimedia - krea.ai"
+    },
+    {
+      "id": "baf7861b-550e-826f-8ee2-0132f6164882",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-31T02:44:00.000Z",
+      "url": "https://app.notion.com/p/Black-Box-AI-baf7861b550e826f8ee20132f6164882",
+      "Level": null,
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Black Box AI"
+    },
+    {
+      "id": "8547861b-550e-832b-a611-01ce5ff9b143",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-04-21T06:54:00.000Z",
+      "url": "https://app.notion.com/p/Collab-Platform-Notion-8547861b550e832ba61101ce5ff9b143",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Nazarudin Rachman Sidik",
+        "jepri.haerudin@kalbenutritionals.com"
+      ],
+      "Start date": {
+        "start": "2026-02-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Deployed & Training is Done",
+      "Risk": null,
+      "End date": {
+        "start": "2026-03-09",
+        "end": null
+      },
+      "Item": "Collab Platform - Notion "
+    },
+    {
+      "id": "84c7861b-550e-8244-a083-01b5c8fce0fd",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Security-Vulnerability-Sec-NESUS-84c7861b550e8244a08301b5c8fce0fd",
+      "Level": "0. Infrastrcture",
+      "Assignee": [
+        "Makhali",
+        "Teguh Sejati"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "Security - Vulnerability Sec NESUS"
+    },
+    {
+      "id": "a317861b-550e-82cd-9fa5-01663acbbe7e",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Multimedia-Google-Veo-3-a317861b550e82cd9fa501663acbbe7e",
+      "Level": "0. Multimedia",
+      "Assignee": [
+        "agung.hartanto@kalbenutritionals.com"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Deployed & Training is Done",
+      "Risk": "Low Risk",
+      "End date": null,
+      "Item": "Multimedia-Google Veo 3"
+    },
+    {
+      "id": "4527861b-550e-83cd-94f6-01b0d156d959",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Security-PALO-ALTO-Administrator-4527861b550e83cd94f601b0d156d959",
+      "Level": "0. Infrastrcture",
+      "Assignee": [
+        "Teguh Sejati"
+      ],
+      "Start date": {
+        "start": "2026-04-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": null,
+      "Item": "Security - PALO ALTO Administrator"
+    },
+    {
+      "id": "0617861b-550e-83f8-96b6-81496091c813",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-Assistant-KIMI-0617861b550e83f896b681496091c813",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "756ee98d-81fe-487d-ba37-c99fc36d9021"
+      ],
+      "Start date": {
+        "start": "2026-04-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": {
+        "start": "2026-05-31",
+        "end": null
+      },
+      "Item": "AI Assistant  - KIMI"
+    },
+    {
+      "id": "2bf7861b-550e-8289-8a7d-0127e5d8e97a",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-in-google-sheet-2bf7861b550e82898a7d0127e5d8e97a",
+      "Level": "3. Data AI ML",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "AI in google sheet"
+    },
+    {
+      "id": "2a47861b-550e-8307-bd59-81005871e56e",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/workflow-automation-RPA-Orange-2a47861b550e8307bd5981005871e56e",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "756ee98d-81fe-487d-ba37-c99fc36d9021",
+        "Makhali"
+      ],
+      "Start date": {
+        "start": "2026-06-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": {
+        "start": "2026-10-31",
+        "end": null
+      },
+      "Item": "workflow automation - RPA Orange"
+    },
+    {
+      "id": "4ff7861b-550e-837e-81da-815c3e1dc8e4",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/dribbble-design-insight-4ff7861b550e837e81da815c3e1dc8e4",
+      "Level": "0. Multimedia",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "dribbble - design insight"
+    },
+    {
+      "id": "ab07861b-550e-83c5-8ac2-01687534f711",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-04-21T06:55:00.000Z",
+      "url": "https://app.notion.com/p/AI-Assistant-Claude-Opus-4-6-ab07861b550e83c58ac201687534f711",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Nazarudin Rachman Sidik",
+        "Jepri Haerudin"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": {
+        "start": "2026-03-31",
+        "end": null
+      },
+      "Item": "AI Assistant - Claude Opus 4.6"
+    },
+    {
+      "id": "5837861b-550e-83b5-ae5d-016eac3dd204",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/workflow-automation-N8N-5837861b550e83b5ae5d016eac3dd204",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Jepri Haerudin"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": null,
+      "Item": "workflow automation - N8N "
+    },
+    {
+      "id": "4ef7861b-550e-834a-9b44-81efd126285e",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-Devops-google-antigravity-4ef7861b550e834a9b4481efd126285e",
+      "Level": "2. Developer",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "AI Devops - google antigravity"
+    },
+    {
+      "id": "3e87861b-550e-83e9-acec-014948db33a2",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/google-gemini-3-deep-think-3e87861b550e83e9acec014948db33a2",
+      "Level": "3. Data AI ML",
+      "Assignee": [
+        "Jepri Haerudin"
+      ],
+      "Start date": {
+        "start": "2026-02-27",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "google gemini 3 deep think"
+    },
+    {
+      "id": "2c07861b-550e-8391-a3c8-0102162afb8d",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-Devops-python-marimo-io-2c07861b550e8391a3c80102162afb8d",
+      "Level": "2. Developer",
+      "Assignee": [
+        "756ee98d-81fe-487d-ba37-c99fc36d9021"
+      ],
+      "Start date": {
+        "start": "2026-06-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Explore & Testing",
+      "Risk": null,
+      "End date": {
+        "start": "2026-08-31",
+        "end": null
+      },
+      "Item": "AI Devops - python marimo.io"
+    },
+    {
+      "id": "3847861b-550e-83fe-a4c3-01700a448d9e",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-Devops-Vibe-Coding-3847861b550e83fea4c301700a448d9e",
+      "Level": "2. Developer",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": "AI Devops - Vibe Coding"
+    },
+    {
+      "id": "d4d7861b-550e-82b6-bd27-01f43939a355",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-Engineering-d4d7861b550e82b6bd2701f43939a355",
+      "Level": "0. Fundamental",
+      "Assignee": [
+        "jepri.haerudin@kalbenutritionals.com",
+        "Jepri Haerudin"
+      ],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "Low Risk",
+      "End date": null,
+      "Item": "AI Engineering"
+    },
+    {
+      "id": "7887861b-550e-82f4-8c15-816d1a8183a3",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/AI-Assistant-Claude-Cowork-7887861b550e82f48c15816d1a8183a3",
+      "Level": "3. Data AI ML",
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "High Risk",
+      "End date": null,
+      "Item": "AI Assistant - Claude Cowork"
+    },
+    {
+      "id": "dc67861b-550e-829d-9630-010ced813230",
+      "created_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "url": "https://app.notion.com/p/Oracle-Apex-dc67861b550e829d9630010ced813230",
+      "Level": "5. ERP",
+      "Assignee": [
+        "Novan Trianto"
+      ],
+      "Start date": {
+        "start": "2025-04-01",
+        "end": null
+      },
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": "Medium Risk",
+      "End date": {
+        "start": "2025-06-30",
+        "end": null
+      },
+      "Item": "Oracle Apex"
+    }
+  ]
 }
