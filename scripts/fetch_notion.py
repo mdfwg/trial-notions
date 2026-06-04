@@ -3,8 +3,8 @@ import json
 import requests
 from datetime import datetime
 
-NOTION_TOKEN = os.environ["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"]
-DATABASE_ID = os.environ["6b97861b550e8389ae4a01f29a260f79"]
+NOTION_TOKEN = os.environ["NOTION_TOKEN"]
+DATABASE_ID = os.environ["DATABASE_ID"]
 
 HEADERS = {
     "Authorization": f"Bearer {NOTION_TOKEN}",
