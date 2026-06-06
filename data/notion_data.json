@@ -1,7 +1,21 @@
 {
-  "last_synced": "2026-06-05T02:01:56.539492Z",
-  "total": 49,
+  "last_synced": "2026-06-06T01:53:18.671810Z",
+  "total": 50,
   "items": [
+    {
+      "id": "3767861b-550e-80eb-875c-cada62ab153f",
+      "created_time": "2026-06-05T04:14:00.000Z",
+      "last_edited_time": "2026-06-05T04:14:00.000Z",
+      "url": "https://app.notion.com/p/3767861b550e80eb875ccada62ab153f",
+      "Level": null,
+      "Assignee": [],
+      "Start date": null,
+      "Attach file": [],
+      "Status": "Not started",
+      "Risk": null,
+      "End date": null,
+      "Item": ""
+    },
     {
       "id": "9757861b-550e-83b0-8249-813bfab60d3c",
       "created_time": "2026-03-30T02:48:00.000Z",
@@ -486,7 +500,7 @@
     {
       "id": "7b47861b-550e-8325-a5dc-813f9c256693",
       "created_time": "2026-03-30T02:48:00.000Z",
-      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-06-05T06:41:00.000Z",
       "url": "https://app.notion.com/p/Julius-AI-Data-Analysis-Visualization-7b47861b550e8325a5dc813f9c256693",
       "Level": "3. Data AI ML",
       "Assignee": [
@@ -497,7 +511,7 @@
         "end": null
       },
       "Attach file": [],
-      "Status": "Explore & Testing",
+      "Status": "Dropped",
       "Risk": null,
       "End date": null,
       "Item": "Julius AI - Data Analysis & Visualization"
