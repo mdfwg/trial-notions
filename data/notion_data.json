@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-06-17T02:15:09.767845Z",
+  "last_synced": "2026-06-18T02:13:04.094232Z",
   "total": 50,
   "items": [
     {
@@ -630,7 +630,7 @@
     {
       "id": "0617861b-550e-83f8-96b6-81496091c813",
       "created_time": "2026-03-30T02:48:00.000Z",
-      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-06-17T04:09:00.000Z",
       "url": "https://app.notion.com/p/AI-Assistant-KIMI-0617861b550e83f896b681496091c813",
       "Level": "3. Data AI ML",
       "Assignee": [
@@ -641,7 +641,7 @@
         "end": null
       },
       "Attach file": [],
-      "Status": "Not started",
+      "Status": "Explore & Testing",
       "Risk": null,
       "End date": {
         "start": "2026-05-31",
@@ -666,7 +666,7 @@
     {
       "id": "2a47861b-550e-8307-bd59-81005871e56e",
       "created_time": "2026-03-30T02:48:00.000Z",
-      "last_edited_time": "2026-03-30T02:48:00.000Z",
+      "last_edited_time": "2026-06-17T04:09:00.000Z",
       "url": "https://app.notion.com/p/workflow-automation-RPA-Orange-2a47861b550e8307bd5981005871e56e",
       "Level": "3. Data AI ML",
       "Assignee": [
@@ -678,7 +678,7 @@
         "end": null
       },
       "Attach file": [],
-      "Status": "Not started",
+      "Status": "Dropped",
       "Risk": null,
       "End date": {
         "start": "2026-10-31",
